@@ -1,0 +1,17 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+:hp-tags: Firebase, react.js, javascript, webapp
+// :hp-alt-title: My English Title
+
+= New web application with Google Firebase and react.js
+
+I had the idea to create a web application. May idea was to start quickly and not spending time with setting up and configuring servers. After some reading I decided to go with Google Firebase and using react.js for the frontend. So far, I have almost no experience with javascript. Thus, this little project will hopefully help me to get some experience with java script and react.js framework.
+
+I chose Google Firebase as it provides some great feature, like realtime database, hosting of the entire web app as well as cloud functions to implement some backend code. And I wanted to try it out;-)
+
+In the coming blog posts I will report about my experience regarding the setup and the configuration of the tools as well as my progress.
+
+
+
