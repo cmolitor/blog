@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://cmolitor.github.io/blog</link><generator>RSS for Node</generator><lastBuildDate>Sat, 26 Aug 2017 13:18:10 GMT</lastBuildDate><atom:link href="https://cmolitor.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Setting up a web app project using Google Firebase and react.js]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://cmolitor.github.io/blog</link><generator>RSS for Node</generator><lastBuildDate>Sat, 26 Aug 2017 13:20:42 GMT</lastBuildDate><atom:link href="https://cmolitor.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Setting up a web app project using Google Firebase and react.js]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>When I looked for a tutorial how to setup a Google Firebase project using react.js, I could not find many tutorials.
@@ -10,12 +10,24 @@ Maybe because it is trivial if you are familiar with Firebase and/or react.js.</
 <div class="olist arabic">
 <ol class="arabic">
 <li>
-<p>Create a react.js application using <code><code>create-react-ap nameOfApp</code></code></p>
+<p>Create a react.js application using</p>
 </li>
+</ol>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code>create-react-ap nameOfApp</code></pre>
+</div>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
 <li>
 <p>Initialize a firebase project within the folder of your react.js application with some specific settings</p>
 </li>
 </ol>
+</div>
+<div class="paragraph">
+<p>Here, I assume that you have node.js already installed on your machine. I am running everything on macOS.</p>
 </div>
 <div class="paragraph">
 <p>In the following I will describe the two steps in more detail.</p>
