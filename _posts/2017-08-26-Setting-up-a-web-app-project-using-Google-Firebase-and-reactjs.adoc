@@ -12,8 +12,15 @@ Maybe because it is trivial if you are familiar with Firebase and/or react.js.
 
 Basically, what you need to do to setup Google Firebase and react.js are just two steps:
 
-1. Create a react.js application using ```create-react-ap nameOfApp```
+1. Create a react.js application using 
+
+```
+create-react-ap nameOfApp
+```
+
 2. Initialize a firebase project within the folder of your react.js application with some specific settings
+
+Here, I assume that you have node.js already installed on your machine. I am running everything on macOS.
 
 In the following I will describe the two steps in more detail.
 
