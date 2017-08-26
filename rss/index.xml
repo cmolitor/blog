@@ -1,4 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://cmolitor.github.io/blog</link><generator>RSS for Node</generator><lastBuildDate>Thu, 24 Aug 2017 19:45:32 GMT</lastBuildDate><atom:link href="https://cmolitor.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[New web application with Google Firebase and react.js]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://cmolitor.github.io/blog</link><generator>RSS for Node</generator><lastBuildDate>Sat, 26 Aug 2017 13:18:10 GMT</lastBuildDate><atom:link href="https://cmolitor.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Setting up a web app project using Google Firebase and react.js]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>When I looked for a tutorial how to setup a Google Firebase project using react.js, I could not find many tutorials.
+Maybe because it is trivial if you are familiar with Firebase and/or react.js.</p>
+</div>
+<div class="paragraph">
+<p>Basically, what you need to do to setup Google Firebase and react.js are just two steps:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Create a react.js application using <code><code>create-react-ap nameOfApp</code></code></p>
+</li>
+<li>
+<p>Initialize a firebase project within the folder of your react.js application with some specific settings</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>In the following I will describe the two steps in more detail.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_1_setting_up_a_react_js_project">1. Setting up a react.js project</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>I found the following tutorial really helpful to create a first react.js app. Thus, instead of repeating it here, I recommend to follow the guide:</p>
+</div>
+<div class="paragraph">
+<p><a href="https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-1-a12e1833fdc" class="bare">https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-1-a12e1833fdc</a></p>
+</div>
+<div class="paragraph">
+<p>However, at some point I had an issue and had to install:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code>npm install --save react-router-dom</code></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>But the everything was fine.</p>
+</div>
+<div class="paragraph">
+<p>Important commands:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><code><code>npm start</code></code> for starting your app on your local machine</p>
+</li>
+<li>
+<p><code><code>npm run build</code></code> to build optimized code which will be put in the folder <code><code>build</code></code></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_2_setting_up_google_firebase_project">2. Setting up Google Firebase project</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>The following steps have to be executed to setup a Google Firebase project. The source of this description can be found here:
+<a href="https://medium.com/@larrysigo/hosting-your-react-app-with-firebase-hosting-add1fa08c214" class="bare">https://medium.com/@larrysigo/hosting-your-react-app-with-firebase-hosting-add1fa08c214</a></p>
+</div>
+<div class="paragraph">
+<p>First you gave to install the firebase-tools and initialize firebase in your project.</p>
+</div>
+<div class="paragraph">
+<p>Install firebase tools by <code><code>npm install -g firebase-tools</code></code> which install firebase globally so it can be used in the ternimal.</p>
+</div>
+<div class="paragraph">
+<p>Second you have to initialize the firebase project in your project folder. Navigate there in your terminal and enter the command <code>firebase login</code><code>, then login and run the command <code>`firebase init</code></code>.</p>
+</div>
+<div class="paragraph">
+<p>Follow the steps on the screen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Select the Firebase features you want to use. Here, I chose Database, Hosting nd Cloud functions.</p>
+</li>
+<li>
+<p>Firebase command-line interface will pull up your list of Firebase projects, where you can then choose the corresponding project using the up and down keys. Here all projects created in the frírebase online frontend will be listed.</p>
+</li>
+<li>
+<p>Keep the default for the Database Rules file name and just press enter.</p>
+</li>
+<li>
+<p>Pay attention to the question about public directory, which is the directory that will be deployed and served by Firebase. In our case it is <code><code>build</code></code>, which is the folder where our production build is located. Type <code><code>build</code></code> and proceed. If you make a istake here, you can change the public directory in the file <code><code>firebase.json</code></code></p>
+</li>
+<li>
+<p>Firebase will ask you if you want the app to be configured as a single-page app. By default it is “no” — in our case, we could really benefit from the configuration, so we’ll type “y” and press enter. Later on you’ll be able to use react-router and the URLs will just work.</p>
+</li>
+<li>
+<p>Firebase will warn us that we already have “build/index.html,” which we don’t want to be overwritten. Type “n” and press enter to keep our own “index.html,” generated by our build process earlier.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_further_material">Further material:</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Alternative/similar guide, I did not try yet: <a href="https://www.youtube.com/watch?v=mwNATxfUsgI" class="bare">https://www.youtube.com/watch?v=mwNATxfUsgI</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>]]></description><link>https://cmolitor.github.io/blog/2017/08/26/Setting-up-a-web-app-project-using-Google-Firebase-and-reactjs.html</link><guid isPermaLink="true">https://cmolitor.github.io/blog/2017/08/26/Setting-up-a-web-app-project-using-Google-Firebase-and-reactjs.html</guid><pubDate>Sat, 26 Aug 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[New web application with Google Firebase and react.js]]></title><description><![CDATA[<div class="paragraph">
 <p>I had the idea to create a web application. May idea was to start quickly and not spending time with setting up and configuring servers. After some reading I decided to go with Google Firebase and using react.js for the frontend. So far, I have almost no experience with javascript. Thus, this little project will hopefully help me to get some experience with java script and react.js framework.</p>
 </div>
 <div class="paragraph">

@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>Setting up a web app project using Google Firebase and react.js</title>
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="https://cmolitor.github.io/blog/favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="//cmolitor.github.io/blog/themes/casper/assets/css/screen.css?v=1503753490267" />
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+
+    <link rel="canonical" href="https://cmolitor.github.io/blog/2017/08/26/Setting-up-a-web-app-project-using-Google-Firebase-and-reactjs.html" />
+    <meta name="referrer" content="origin" />
+    
+    <meta property="og:site_name" content="" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Setting up a web app project using Google Firebase and react.js" />
+    <meta property="og:description" content="When I looked for a tutorial how to setup a Google Firebase project using react.js, I could not find many tutorials. Maybe because it is trivial if you are familiar with Firebase and/or react.js. Basically, what you need to do to setup Google Firebase and react.js" />
+    <meta property="og:url" content="https://cmolitor.github.io/blog/2017/08/26/Setting-up-a-web-app-project-using-Google-Firebase-and-reactjs.html" />
+    <meta property="article:published_time" content="2017-08-26T00:00:00.000Z" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Setting up a web app project using Google Firebase and react.js" />
+    <meta name="twitter:description" content="When I looked for a tutorial how to setup a Google Firebase project using react.js, I could not find many tutorials. Maybe because it is trivial if you are familiar with Firebase and/or react.js. Basically, what you need to do to setup Google Firebase and react.js" />
+    <meta name="twitter:url" content="https://cmolitor.github.io/blog/2017/08/26/Setting-up-a-web-app-project-using-Google-Firebase-and-reactjs.html" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "publisher": "",
+    "author": {
+        "@type": "Person",
+        "name": "cmolitor",
+        "image": "https://avatars3.githubusercontent.com/u/8420080?v=4",
+        "url": "https://cmolitor.github.io/blog/author/cmolitor/"
+    },
+    "headline": "Setting up a web app project using Google Firebase and react.js",
+    "url": "https://cmolitor.github.io/blog/2017/08/26/Setting-up-a-web-app-project-using-Google-Firebase-and-reactjs.html",
+    "datePublished": "2017-08-26T00:00:00.000Z",
+    "description": "When I looked for a tutorial how to setup a Google Firebase project using react.js, I could not find many tutorials. Maybe because it is trivial if you are familiar with Firebase and/or react.js. Basically, what you need to do to setup Google Firebase and react.js"
+}
+    </script>
+
+    <meta name="generator" content="HubPress" />
+    <link rel="alternate" type="application/rss+xml" title="" href="https://cmolitor.github.io/blog/rss/" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/atom-one-dark.min.css">
+    
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+</head>
+<body class="post-template nav-closed">
+
+    
+
+    <div class="site-wrapper">
+
+        
+
+
+<header class="main-header post-head no-cover">
+    <nav class="main-nav  clearfix">
+        
+    </nav>
+</header>
+
+<main class="content" role="main">
+    <article class="post">
+
+        <header class="post-header">
+            <h1 class="post-title">Setting up a web app project using Google Firebase and react.js</h1>
+            <section class="post-meta">
+                <time class="post-date" datetime="2017-08-26">26 August 2017</time> 
+            </section>
+        </header>
+
+        <section class="post-content">
+            <div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>When I looked for a tutorial how to setup a Google Firebase project using react.js, I could not find many tutorials.
+Maybe because it is trivial if you are familiar with Firebase and/or react.js.</p>
+</div>
+<div class="paragraph">
+<p>Basically, what you need to do to setup Google Firebase and react.js are just two steps:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Create a react.js application using <code><code>create-react-ap nameOfApp</code></code></p>
+</li>
+<li>
+<p>Initialize a firebase project within the folder of your react.js application with some specific settings</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>In the following I will describe the two steps in more detail.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_1_setting_up_a_react_js_project">1. Setting up a react.js project</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>I found the following tutorial really helpful to create a first react.js app. Thus, instead of repeating it here, I recommend to follow the guide:</p>
+</div>
+<div class="paragraph">
+<p><a href="https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-1-a12e1833fdc" class="bare">https://medium.com/@diamondgfx/learning-react-with-create-react-app-part-1-a12e1833fdc</a></p>
+</div>
+<div class="paragraph">
+<p>However, at some point I had an issue and had to install:</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code>npm install --save react-router-dom</code></pre>
+</div>
+</div>
+<div class="paragraph">
+<p>But the everything was fine.</p>
+</div>
+<div class="paragraph">
+<p>Important commands:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><code><code>npm start</code></code> for starting your app on your local machine</p>
+</li>
+<li>
+<p><code><code>npm run build</code></code> to build optimized code which will be put in the folder <code><code>build</code></code></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_2_setting_up_google_firebase_project">2. Setting up Google Firebase project</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>The following steps have to be executed to setup a Google Firebase project. The source of this description can be found here:
+<a href="https://medium.com/@larrysigo/hosting-your-react-app-with-firebase-hosting-add1fa08c214" class="bare">https://medium.com/@larrysigo/hosting-your-react-app-with-firebase-hosting-add1fa08c214</a></p>
+</div>
+<div class="paragraph">
+<p>First you gave to install the firebase-tools and initialize firebase in your project.</p>
+</div>
+<div class="paragraph">
+<p>Install firebase tools by <code><code>npm install -g firebase-tools</code></code> which install firebase globally so it can be used in the ternimal.</p>
+</div>
+<div class="paragraph">
+<p>Second you have to initialize the firebase project in your project folder. Navigate there in your terminal and enter the command <code>firebase login</code><code>, then login and run the command <code>`firebase init</code></code>.</p>
+</div>
+<div class="paragraph">
+<p>Follow the steps on the screen:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Select the Firebase features you want to use. Here, I chose Database, Hosting nd Cloud functions.</p>
+</li>
+<li>
+<p>Firebase command-line interface will pull up your list of Firebase projects, where you can then choose the corresponding project using the up and down keys. Here all projects created in the frírebase online frontend will be listed.</p>
+</li>
+<li>
+<p>Keep the default for the Database Rules file name and just press enter.</p>
+</li>
+<li>
+<p>Pay attention to the question about public directory, which is the directory that will be deployed and served by Firebase. In our case it is <code><code>build</code></code>, which is the folder where our production build is located. Type <code><code>build</code></code> and proceed. If you make a istake here, you can change the public directory in the file <code><code>firebase.json</code></code></p>
+</li>
+<li>
+<p>Firebase will ask you if you want the app to be configured as a single-page app. By default it is “no” — in our case, we could really benefit from the configuration, so we’ll type “y” and press enter. Later on you’ll be able to use react-router and the URLs will just work.</p>
+</li>
+<li>
+<p>Firebase will warn us that we already have “build/index.html,” which we don’t want to be overwritten. Type “n” and press enter to keep our own “index.html,” generated by our build process earlier.</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_further_material">Further material:</h2>
+<div class="sectionbody">
+<div class="ulist">
+<ul>
+<li>
+<p>Alternative/similar guide, I did not try yet: <a href="https://www.youtube.com/watch?v=mwNATxfUsgI" class="bare">https://www.youtube.com/watch?v=mwNATxfUsgI</a></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+        </section>
+
+        <footer class="post-footer">
+
+
+            <figure class="author-image">
+                <a class="img" href="https://cmolitor.github.io/blog/author/cmolitor/" style="background-image: url(https://avatars3.githubusercontent.com/u/8420080?v&#x3D;4)"><span class="hidden">cmolitor's Picture</span></a>
+            </figure>
+
+            <section class="author">
+                <h4><a href="https://cmolitor.github.io/blog/author/cmolitor/">cmolitor</a></h4>
+
+                    <p>Read <a href="https://cmolitor.github.io/blog/author/cmolitor/">more posts</a> by this author.</p>
+                <div class="author-meta">
+                    
+                    
+                </div>
+            </section>
+
+
+            <section class="share">
+                <h4>Share this post</h4>
+                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=Setting%20up%20a%20web%20app%20project%20using%20Google%20Firebase%20and%20react.js&amp;url=https://cmolitor.github.io/blog/2017/08/26/Setting-up-a-web-app-project-using-Google-Firebase-and-reactjs.html"
+                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <span class="hidden">Twitter</span>
+                </a>
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://cmolitor.github.io/blog/2017/08/26/Setting-up-a-web-app-project-using-Google-Firebase-and-reactjs.html"
+                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <span class="hidden">Facebook</span>
+                </a>
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=https://cmolitor.github.io/blog/2017/08/26/Setting-up-a-web-app-project-using-Google-Firebase-and-reactjs.html"
+                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <span class="hidden">Google+</span>
+                </a>
+            </section>
+
+        </footer>
+
+
+    </article>
+
+</main>
+
+<aside class="read-next">
+</aside>
+
+
+
+        <footer class="site-footer clearfix">
+            <section class="copyright"><a href="https://cmolitor.github.io/blog"></a> &copy; 2017</section>
+            <section class="poweredby">Proudly published with <a href="http://hubpress.io">HubPress</a></section>
+        </footer>
+
+    </div>
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/highlight.min.js?v="></script> 
+      <script type="text/javascript">
+        jQuery( document ).ready(function() {
+          // change date with ago
+          jQuery('ago.ago').each(function(){
+            var element = jQuery(this).parent();
+            element.html( moment(element.text()).fromNow());
+          });
+        });
+
+        hljs.initHighlightingOnLoad();
+      </script>
+
+    <script type="text/javascript" src="//cmolitor.github.io/blog/themes/casper/assets/js/jquery.fitvids.js?v=1503753490267"></script>
+    <script type="text/javascript" src="//cmolitor.github.io/blog/themes/casper/assets/js/index.js?v=1503753490267"></script>
+
+</body>
+</html>
