@@ -18,6 +18,8 @@ Die fertige Lösung sieht folgendermaßen auf:
 
 image::kitchen_IKEA/Installation_fertig_1.jpg[Ergebnis, 800, 600]
 
+// image::nicePicture.png[Whatever, scaledwidth="25%"] 
+
 == Unterschrank
 
 Der Unterschrank besteht aus 2x2 IKEA Kallax Regal in weiß, einem IKEA ELVARLI (80x51cm) Regalboden sowie vier Möbelfußen (Möbelfuß Set Alpha 80 - 150 mm).
