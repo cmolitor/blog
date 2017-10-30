@@ -16,7 +16,7 @@ Die Teileliste mit Links findet sich am Ende des Artikels.
 
 Die fertige Lösung sieht folgendermaßen auf:
 
-image::kitchen_IKEA/Installation_fertig_1.jpg[Ergebnis, scaledwidth="75%"]
+image::kitchen_IKEA/Installation_fertig_1.jpg[Ergebnis, scaledwidth="10%"]
 
 == Unterschrank
 
