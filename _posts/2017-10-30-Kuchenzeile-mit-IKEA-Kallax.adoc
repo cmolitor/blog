@@ -48,18 +48,23 @@ image::kitchen_IKEA/Befestigung_Winkel.jpg[]
 Nachdem die Bettbeschläge angebracht waren, konnte das Regal an der Wand montiert werden. Festhalten, Bohrstellen markieren, Regal absetzen und Löcher in die Wand Bohren. Hier wurden 10mm Köcher für SX10 Dübe gebohrt. Die verwendeten Sechskant-Schrauben für die Befestigung des Regals sind 8x80mm. Unterlagscheiben wären zu empfehlen.
 
 So sah das Regal nach der Montage aus:
+
 image::kitchen_IKEA/Oberschrank_ohne_Tueren.jpg[]
 
 Der Einbau der Türen für die beiden außenliegenden Fächer war nun etwas aufwändiger, da die Bettbeschläge etwas im Weg sind. Damit die Einsätze passen mussten entsprechende AUssaprungen gefeilt werden und auch Aussparungen für die Wandschrauben erstellt werden.
 
 image::kitchen_IKEA/Aussparungen_fertig.jpg[]
+
 image::kitchen_IKEA/Aussparungen2.jpg[]
 
 Montierter Einsatz mit Aussparungen:
+
 image::kitchen_IKEA/Aussparungen_Montage.jpg[]
 
 Nach dem Einbau der Türen sieht das Ganze folgendermaßen aus:
+
 image::kitchen_IKEA/Oberschrank_mit_Tueren.jpg[]
+
 image::kitchen_IKEA/Oberschrank_mit_Tueren_offen.jpg[]
 
 == Zusammenfassung
