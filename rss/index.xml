@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://cmolitor.github.io/blog</link><image><url>images/DSC09039.jpg</url><title>Untitled RSS Feed</title><link>https://cmolitor.github.io/blog</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 30 Oct 2017 22:45:22 GMT</lastBuildDate><atom:link href="https://cmolitor.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Küchenzeile mit IKEA Kallax]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://cmolitor.github.io/blog</link><image><url>images/DSC09039.jpg</url><title>Untitled RSS Feed</title><link>https://cmolitor.github.io/blog</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 30 Oct 2017 22:48:40 GMT</lastBuildDate><atom:link href="https://cmolitor.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Küchenzeile mit IKEA Kallax]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>In der Küche war der Stauraum sowie mögliche Ablagefläche etwas knapp, daher habe ich überlegt wie kostengünstig Stauraum, Ablagefläche und ein Platz für die Mikrowelle geschaffen werden konnte.</p>
@@ -34,7 +34,7 @@ Die Teileliste mit Links findet sich am Ende des Artikels.</p>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Befestigung_Bein.jpg" alt="Befestigung Bein.jpg">
+<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Befestigung_Bein.jpg" alt="Befestigung Bein" width="500" height="300">
 </div>
 </div>
 <div class="paragraph">
@@ -42,7 +42,7 @@ Die Teileliste mit Links findet sich am Ende des Artikels.</p>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Befestigung_Arbeitsplatte.jpg" alt="Befestigung Arbeitsplatte.jpg">
+<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Befestigung_Arbeitsplatte.jpg" alt="Befestigung Arbeitsplatte" width="500" height="300">
 </div>
 </div>
 <div class="paragraph">
@@ -53,7 +53,7 @@ Die Teileliste mit Links findet sich am Ende des Artikels.</p>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Unterschrank_fertig.jpg" alt="Unterschrank fertig.jpg">
+<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Unterschrank_fertig.jpg" alt="Unterschrank" width="500" height="300">
 </div>
 </div>
 </div>
@@ -66,7 +66,7 @@ Die Teileliste mit Links findet sich am Ende des Artikels.</p>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Befestigung_Winkel.jpg" alt="Befestigung Winkel.jpg">
+<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Befestigung_Winkel.jpg" alt="Bettbeschlaege" width="500" height="300">
 </div>
 </div>
 <div class="paragraph">
@@ -77,7 +77,7 @@ Die Teileliste mit Links findet sich am Ende des Artikels.</p>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Oberschrank_ohne_Tueren.jpg" alt="Oberschrank ohne Tueren.jpg">
+<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Oberschrank_ohne_Tueren.jpg" alt="Oberschrank ohne Tueren" width="500" height="300">
 </div>
 </div>
 <div class="paragraph">
@@ -85,12 +85,12 @@ Die Teileliste mit Links findet sich am Ende des Artikels.</p>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Aussparungen_fertig.jpg" alt="Aussparungen fertig.jpg">
+<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Aussparungen_fertig.jpg" alt="Aussparungen" width="500" height="300">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Aussparungen2.jpg" alt="Aussparungen2.jpg">
+<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Aussparungen2.jpg" alt="Aussparungen" width="500" height="300">
 </div>
 </div>
 <div class="paragraph">
@@ -98,7 +98,7 @@ Die Teileliste mit Links findet sich am Ende des Artikels.</p>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Aussparungen_Montage.jpg" alt="Aussparungen Montage.jpg">
+<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Aussparungen_Montage.jpg" alt="Aussparungen" width="500" height="300">
 </div>
 </div>
 <div class="paragraph">
@@ -106,12 +106,12 @@ Die Teileliste mit Links findet sich am Ende des Artikels.</p>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Oberschrank_mit_Tueren.jpg" alt="Oberschrank mit Tueren.jpg">
+<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Oberschrank_mit_Tueren.jpg" alt="Oberschrank" width="500" height="300">
 </div>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Oberschrank_mit_Tueren_offen.jpg" alt="Oberschrank mit Tueren offen.jpg">
+<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Oberschrank_mit_Tueren_offen.jpg" alt="Oberschrank" width="500" height="300">
 </div>
 </div>
 </div>
