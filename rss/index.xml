@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://cmolitor.github.io/blog</link><image><url>images/DSC09039.jpg</url><title>Untitled RSS Feed</title><link>https://cmolitor.github.io/blog</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 30 Oct 2017 22:27:03 GMT</lastBuildDate><atom:link href="https://cmolitor.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Küchenzeile mit IKEA Kallax]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://cmolitor.github.io/blog</link><image><url>images/DSC09039.jpg</url><title>Untitled RSS Feed</title><link>https://cmolitor.github.io/blog</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 30 Oct 2017 22:31:16 GMT</lastBuildDate><atom:link href="https://cmolitor.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Küchenzeile mit IKEA Kallax]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>In der Küche war der Stauraum sowie mögliche Ablagefläche etwas knapp, daher habe ich überlegt wie kostengünstig Stauraum, Ablagefläche und ein Platz für die Mikrowelle geschaffen werden konnte.</p>
@@ -73,8 +73,12 @@ Die Teileliste mit Links findet sich am Ende des Artikels.</p>
 <p>Nachdem die Bettbeschläge angebracht waren, konnte das Regal an der Wand montiert werden. Festhalten, Bohrstellen markieren, Regal absetzen und Löcher in die Wand Bohren. Hier wurden 10mm Köcher für SX10 Dübe gebohrt. Die verwendeten Sechskant-Schrauben für die Befestigung des Regals sind 8x80mm. Unterlagscheiben wären zu empfehlen.</p>
 </div>
 <div class="paragraph">
-<p>So sah das Regal nach der Montage aus:
-image::kitchen_IKEA/Oberschrank_ohne_Tueren.jpg[]</p>
+<p>So sah das Regal nach der Montage aus:</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Oberschrank_ohne_Tueren.jpg" alt="Oberschrank ohne Tueren.jpg">
+</div>
 </div>
 <div class="paragraph">
 <p>Der Einbau der Türen für die beiden außenliegenden Fächer war nun etwas aufwändiger, da die Bettbeschläge etwas im Weg sind. Damit die Einsätze passen mussten entsprechende AUssaprungen gefeilt werden und auch Aussparungen für die Wandschrauben erstellt werden.</p>
@@ -90,13 +94,25 @@ image::kitchen_IKEA/Oberschrank_ohne_Tueren.jpg[]</p>
 </div>
 </div>
 <div class="paragraph">
-<p>Montierter Einsatz mit Aussparungen:
-image::kitchen_IKEA/Aussparungen_Montage.jpg[]</p>
+<p>Montierter Einsatz mit Aussparungen:</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Aussparungen_Montage.jpg" alt="Aussparungen Montage.jpg">
+</div>
 </div>
 <div class="paragraph">
-<p>Nach dem Einbau der Türen sieht das Ganze folgendermaßen aus:
-image::kitchen_IKEA/Oberschrank_mit_Tueren.jpg[]
-image::kitchen_IKEA/Oberschrank_mit_Tueren_offen.jpg[]</p>
+<p>Nach dem Einbau der Türen sieht das Ganze folgendermaßen aus:</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Oberschrank_mit_Tueren.jpg" alt="Oberschrank mit Tueren.jpg">
+</div>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://cmolitor.github.io/blog/images/kitchen_IKEA/Oberschrank_mit_Tueren_offen.jpg" alt="Oberschrank mit Tueren offen.jpg">
+</div>
 </div>
 </div>
 </div>
