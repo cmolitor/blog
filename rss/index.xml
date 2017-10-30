@@ -1,4 +1,112 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://cmolitor.github.io/blog</link><image><url>images/DSC09039.jpg</url><title>Untitled RSS Feed</title><link>https://cmolitor.github.io/blog</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 13 Oct 2017 20:09:28 GMT</lastBuildDate><atom:link href="https://cmolitor.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Setting up a web app project using Google Firebase and react.js]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://cmolitor.github.io/blog</link><image><url>images/DSC09039.jpg</url><title>Untitled RSS Feed</title><link>https://cmolitor.github.io/blog</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 30 Oct 2017 22:11:34 GMT</lastBuildDate><atom:link href="https://cmolitor.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Küchenzeile mit IKEA Kallax]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>In der Küche war der Stauraum sowie mögliche Ablagefläche etwas knapp, daher habe ich überlegt wie kostengünstig Stauraum, Ablagefläche und ein Platz für die Mikrowelle geschaffen werden konnte.</p>
+</div>
+<div class="paragraph">
+<p>Nach verschiedenen Überlegeungen habe ich mich entscheiden eine passende Lösung basierend auf dem IKEA Kallax Regal zu schaffen.</p>
+</div>
+<div class="paragraph">
+<p>Zuerst kurz ein Foto der fertigen Lösung, die als Inspiration dienen kann. Weiter unten dann eine kurze Beschreibung der Kniffe und Anpassungen, die nötig waren, um das aus einfachen IKEA Teilen die Lösung umzusetzen.
+Die Teileliste mit Links findet sich am Ende des Artikels.</p>
+</div>
+<div class="paragraph">
+<p>Die fertige Lösung sieht folgendermaßen auf:</p>
+</div>
+<div class="paragraph">
+<p>![Normal image](//images/kitchen_IKEA/Installation_fertig_1.jpg)</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_unterschrank">Unterschrank</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Der Unterschrank besteht aus 2x2 IKEA Kallax Regal in weiß, einem IKEA ELVARLI (80x51cm) Regalboden sowie vier Möbelfußen (Möbelfuß Set Alpha 80 - 150 mm).</p>
+</div>
+<div class="paragraph">
+<p>Zuerst wurde das IKEA Kallax Regal aufgebaut, wobei im Inneren nur das durchgehende Regalbrett und eins der "halben" Regalbretter montiert wurden. Somit entstand ein großes Fach für die Mikrowelle.</p>
+</div>
+<div class="paragraph">
+<p>Danach wurden die Möbelfüße angeschraubt. Hier wurden einfach die Schrauben des IKEA Regals genutzt. Damit diese durch die Bohrlöcher der Reglfüße passten, mussten die Bohrlöcher etwas aufgebohrt werden. Die Möbelfüße sind somit nur mit einer Schraube befestigt, was sich aber als vollkommen ausreichend herausgestellt hat.</p>
+</div>
+<div class="paragraph">
+<p>![Normal image](<a href="https://github.com/cmolitor/blog/tree/gh-pages/images/kitchen_IKEA/Befestigung_Bein.jpg" class="bare">https://github.com/cmolitor/blog/tree/gh-pages/images/kitchen_IKEA/Befestigung_Bein.jpg</a>)</p>
+</div>
+<div class="paragraph">
+<p>Zum Schluss wurde die Arbeistplatte bestehend aus einem IKEA ELVARLI (80x51cm) Regalboden angebracht. Diese wurde einfach aufgelegt und von unten durch die Regelwand mit vier Schrauben befestigt. Absolut ausreichend.</p>
+</div>
+<div class="paragraph jpg">
+<p>Die Türen für zwei Fächer wurden entsprechend der IKEA Anleitung und ohne Anpassungen montiert.</p>
+</div>
+<div class="paragraph">
+<p>Das fertige Ergebnis sieht dann folgendermaßen aus:</p>
+</div>
+</div>
+</div>
+<div class="sect1 jpg">
+<h2 id="_oberschrank">Oberschrank</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Für den Oberschrank würde ein IKEA Kallax 3x1 Regal in weiß gewählt. Um das Regal sicher an die Wand aufzuhängen, habe ich mich entschieden in allen vier äußeren Ecken des Regals sogenannte Bettbeschläge anzubringen. Die Bettbeschläge wurden mittels Schrauben an den Stellen angebracht, die für den IKEA Kippschutz vorgesehen sind. Hierzu mussten die Bettbeschläge an den entsprechenden Stellen gebohrt werden. Zusätzlich wurden zusätzliche Schrauben verwendet. Die hier verwendeten Bettbeschläge sind im Nachhinein betrachtet etwas überdimensioniert. Etwas kleinere wären auch ausreichend.</p>
+</div>
+<div class="paragraph jpg">
+<p>Nachdem die Bettbeschläge angebracht waren, konnte das Regal an der Wand montiert werden. Festhalten, Bohrstellen markieren, Regal absetzen und Löcher in die Wand Bohren. Hier wurden 10mm Köcher für SX10 Dübe gebohrt. Die verwendeten Sechskant-Schrauben für die Befestigung des Regals sind 8x80mm. Unterlagscheiben wären zu empfehlen.</p>
+</div>
+<div class="paragraph">
+<p>So sah das Regal nach der Montage aus:</p>
+</div>
+<div class="paragraph jpg">
+<p>Der Einbau der Türen für die beiden außenliegenden Fächer war nun etwas aufwändiger, da die Bettbeschläge etwas im Weg sind. Damit die Einsätze passen mussten entsprechende AUssaprungen gefeilt werden und auch Aussparungen für die Wandschrauben erstellt werden.</p>
+</div>
+<div class="paragraph jpg">
+<p>Montierter Einsatz mit Aussparungen:</p>
+</div>
+<div class="paragraph jpg">
+<p>Nach dem Einbau der Türen sieht das Ganze folgendermaßen aus:</p>
+</div>
+</div>
+</div>
+<div class="sect1 jpg">
+<h2 id="_zusammenfassung">Zusammenfassung</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Der Aufbau des Unterschranks war sehr einfach und ging schnell von der Hand. Der Oberschrank mit den Bettbeschlägen als sichere Befestigungsmöglichkeit hat einen gewissen AUfwand bedeutet (~2 Stunden).</p>
+</div>
+<div class="paragraph">
+<p>Für die Durchführung wurden eine Bohrmaschine mit entsprechenden Bohrern und verschiedene Holzfeilen verwendet. Zum Anziehen der Sechskant-Schrauben wurde eine Ratsche verwendet.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_links">Links</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Möbelfüße:
+<a href="http://www.ebay.de/itm/Mobelfus-Set-Alpha-80-150-mm-Mobelfuse-Sockelfuse-Schrankfuse-Bettfus-Sofafus/162090571638?hash=item25bd59d776:m:mop3084FJWFSQZ7JJ5-0i-Q" class="bare">http://www.ebay.de/itm/Mobelfus-Set-Alpha-80-150-mm-Mobelfuse-Sockelfuse-Schrankfuse-Bettfus-Sofafus/162090571638?hash=item25bd59d776:m:mop3084FJWFSQZ7JJ5-0i-Q</a></p>
+</div>
+<div class="paragraph">
+<p>Regalboden, ELVARLI, IKEA:
+<a href="http://www.ikea.com/de/de/catalog/products/80296291/" class="bare">http://www.ikea.com/de/de/catalog/products/80296291/</a></p>
+</div>
+<div class="paragraph">
+<p>Regal, Kallax 2x2, IKEA:
+<a href="http://www.ikea.com/de/de/catalog/products/20275814/" class="bare">http://www.ikea.com/de/de/catalog/products/20275814/</a></p>
+</div>
+<div class="paragraph">
+<p>Regal, Kallax 3x1, IKEA:
+<a href="http://www.ikea.com/de/de/catalog/products/30372188/" class="bare">http://www.ikea.com/de/de/catalog/products/30372188/</a></p>
+</div>
+<div class="paragraph">
+<p>Regaleinsatz mit Tür, schwarz, IKEA
+<a href="http://www.ikea.com/de/de/catalog/products/20278167/#/60278170" class="bare">http://www.ikea.com/de/de/catalog/products/20278167/#/60278170</a></p>
+</div>
+<div class="paragraph">
+<p>Bettbeschläge:
+<a href="http://www.ebay.de/itm/361207035435" class="bare">http://www.ebay.de/itm/361207035435</a></p>
+</div>
+</div>
+</div>]]></description><link>https://cmolitor.github.io/blog/2017/10/30/Kuchenzeile-mit-IKEA-Kallax.html</link><guid isPermaLink="true">https://cmolitor.github.io/blog/2017/10/30/Kuchenzeile-mit-IKEA-Kallax.html</guid><dc:creator><![CDATA[Christoph Molitor]]></dc:creator><pubDate>Mon, 30 Oct 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Setting up a web app project using Google Firebase and react.js]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>When I looked for a tutorial how to setup a Google Firebase project using react.js, I could not find many tutorials.
@@ -123,7 +231,7 @@ Maybe because it is trivial if you are familiar with Firebase and/or react.js.</
 </ul>
 </div>
 </div>
-</div>]]></description><link>https://cmolitor.github.io/blog/2017/08/26/Setting-up-a-web-app-project-using-Google-Firebase-and-reactjs.html</link><guid isPermaLink="true">https://cmolitor.github.io/blog/2017/08/26/Setting-up-a-web-app-project-using-Google-Firebase-and-reactjs.html</guid><pubDate>Sat, 26 Aug 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[New web application with Google Firebase and react.js]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>https://cmolitor.github.io/blog/2017/08/26/Setting-up-a-web-app-project-using-Google-Firebase-and-reactjs.html</link><guid isPermaLink="true">https://cmolitor.github.io/blog/2017/08/26/Setting-up-a-web-app-project-using-Google-Firebase-and-reactjs.html</guid><dc:creator><![CDATA[Christoph Molitor]]></dc:creator><pubDate>Sat, 26 Aug 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[New web application with Google Firebase and react.js]]></title><description><![CDATA[<div class="paragraph">
 <p>I had the idea to create a web application. May idea was to start quickly and not spending time with setting up and configuring servers. After some reading I decided to go with Google Firebase and using react.js for the frontend. So far, I have almost no experience with javascript. Thus, this little project will hopefully help me to get some experience with java script and react.js framework.</p>
 </div>
 <div class="paragraph">
@@ -131,6 +239,6 @@ Maybe because it is trivial if you are familiar with Firebase and/or react.js.</
 </div>
 <div class="paragraph">
 <p>In the coming blog posts I will report about my experience regarding the setup and the configuration of the tools as well as my progress.</p>
-</div>]]></description><link>https://cmolitor.github.io/blog/2017/08/24/New-web-application-with-Google-Firebase-and-reactjs.html</link><guid isPermaLink="true">https://cmolitor.github.io/blog/2017/08/24/New-web-application-with-Google-Firebase-and-reactjs.html</guid><category><![CDATA[Firebase]]></category><category><![CDATA[react.js]]></category><category><![CDATA[javascript]]></category><category><![CDATA[webapp]]></category><pubDate>Thu, 24 Aug 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Mein erster Blogeintrag]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>https://cmolitor.github.io/blog/2017/08/24/New-web-application-with-Google-Firebase-and-reactjs.html</link><guid isPermaLink="true">https://cmolitor.github.io/blog/2017/08/24/New-web-application-with-Google-Firebase-and-reactjs.html</guid><category><![CDATA[Firebase]]></category><category><![CDATA[react.js]]></category><category><![CDATA[javascript]]></category><category><![CDATA[webapp]]></category><dc:creator><![CDATA[Christoph Molitor]]></dc:creator><pubDate>Thu, 24 Aug 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Mein erster Blogeintrag]]></title><description><![CDATA[<div class="paragraph">
 <p>Hier in diesem Blog werde ich über verschiedene technische Themen berichten, mit denen ich mich gerade beschäftige. Die Berichte dienen hauptsächlich zu meiner eigenen Dokumentation und können vielleicht auch für jemand anderen hilfreich sein.</p>
-</div>]]></description><link>https://cmolitor.github.io/blog/2017/08/24/Mein-erster-Blogeintrag.html</link><guid isPermaLink="true">https://cmolitor.github.io/blog/2017/08/24/Mein-erster-Blogeintrag.html</guid><pubDate>Thu, 24 Aug 2017 00:00:00 GMT</pubDate></item></channel></rss>
+</div>]]></description><link>https://cmolitor.github.io/blog/2017/08/24/Mein-erster-Blogeintrag.html</link><guid isPermaLink="true">https://cmolitor.github.io/blog/2017/08/24/Mein-erster-Blogeintrag.html</guid><dc:creator><![CDATA[Christoph Molitor]]></dc:creator><pubDate>Thu, 24 Aug 2017 00:00:00 GMT</pubDate></item></channel></rss>
