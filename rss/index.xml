@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://cmolitor.github.io/blog</link><image><url>images/DSC09039.jpg</url><title>Untitled RSS Feed</title><link>https://cmolitor.github.io/blog</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 30 Oct 2017 22:11:34 GMT</lastBuildDate><atom:link href="https://cmolitor.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Küchenzeile mit IKEA Kallax]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://cmolitor.github.io/blog</link><image><url>images/DSC09039.jpg</url><title>Untitled RSS Feed</title><link>https://cmolitor.github.io/blog</link></image><generator>RSS for Node</generator><lastBuildDate>Mon, 30 Oct 2017 22:14:39 GMT</lastBuildDate><atom:link href="https://cmolitor.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Küchenzeile mit IKEA Kallax]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>In der Küche war der Stauraum sowie mögliche Ablagefläche etwas knapp, daher habe ich überlegt wie kostengünstig Stauraum, Ablagefläche und ein Platz für die Mikrowelle geschaffen werden konnte.</p>
@@ -30,8 +30,10 @@ Die Teileliste mit Links findet sich am Ende des Artikels.</p>
 <div class="paragraph">
 <p>Danach wurden die Möbelfüße angeschraubt. Hier wurden einfach die Schrauben des IKEA Regals genutzt. Damit diese durch die Bohrlöcher der Reglfüße passten, mussten die Bohrlöcher etwas aufgebohrt werden. Die Möbelfüße sind somit nur mit einer Schraube befestigt, was sich aber als vollkommen ausreichend herausgestellt hat.</p>
 </div>
-<div class="paragraph">
-<p>![Normal image](<a href="https://github.com/cmolitor/blog/tree/gh-pages/images/kitchen_IKEA/Befestigung_Bein.jpg" class="bare">https://github.com/cmolitor/blog/tree/gh-pages/images/kitchen_IKEA/Befestigung_Bein.jpg</a>)</p>
+<div class="imageblock">
+<div class="content">
+<img src="https://github.com/cmolitor/blog/tree/gh-pages/images/kitchen_IKEA/Befestigung_Bein.jpg" alt="Befestigung Bein.jpg">
+</div>
 </div>
 <div class="paragraph">
 <p>Zum Schluss wurde die Arbeistplatte bestehend aus einem IKEA ELVARLI (80x51cm) Regalboden angebracht. Diese wurde einfach aufgelegt und von unten durch die Regelwand mit vier Schrauben befestigt. Absolut ausreichend.</p>
