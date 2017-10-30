@@ -16,7 +16,7 @@ Die Teileliste mit Links findet sich am Ende des Artikels.
 
 Die fertige Lösung sieht folgendermaßen auf:
 
-image::images/kitchen_IKEA/Installation_fertig_1.jpg[]
+image::./images/kitchen_IKEA/Installation_fertig_1.jpg[]
 
 == Unterschrank
 
@@ -26,7 +26,7 @@ Zuerst wurde das IKEA Kallax Regal aufgebaut, wobei im Inneren nur das durchgehe
 
 Danach wurden die Möbelfüße angeschraubt. Hier wurden einfach die Schrauben des IKEA Regals genutzt. Damit diese durch die Bohrlöcher der Reglfüße passten, mussten die Bohrlöcher etwas aufgebohrt werden. Die Möbelfüße sind somit nur mit einer Schraube befestigt, was sich aber als vollkommen ausreichend herausgestellt hat.
 
-image::https://github.com/cmolitor/blog/tree/gh-pages/images/kitchen_IKEA/Befestigung_Bein.jpg[]
+image::https://github.com/cmolitor/blog/images/kitchen_IKEA/Befestigung_Bein.jpg[]
 
 Zum Schluss wurde die Arbeistplatte bestehend aus einem IKEA ELVARLI (80x51cm) Regalboden angebracht. Diese wurde einfach aufgelegt und von unten durch die Regelwand mit vier Schrauben befestigt. Absolut ausreichend.
 
