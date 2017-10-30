@@ -16,7 +16,7 @@ Die Teileliste mit Links findet sich am Ende des Artikels.
 
 Die fertige Lösung sieht folgendermaßen auf:
 
-![Normal image](https://github.com/cmolitor/blog/tree/gh-pages/images/kitchen_IKEA/Installation_fertig_1.jpg)
+![Normal image](//https://github.com/cmolitor/blog/tree/gh-pages/images/kitchen_IKEA/Installation_fertig_1.jpg)
 
 == Unterschrank
 
