@@ -1,11 +1,12 @@
 // = Your Blog title
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 // :hp-image: /covers/cover.png
-// :published_at: 2019-01-31
-// :hp-tags: HubPress, Blog, Open_Source,
 // :hp-alt-title: My English Title
 
 = Küchenzeile mit IKEA Kallax
+
+:published_at: 2017-10-30
+:hp-tags: IKEA_Hacks, Kitchen
 
 In der Küche war der Stauraum sowie mögliche Ablagefläche etwas knapp, daher habe ich überlegt wie kostengünstig Stauraum, Ablagefläche und ein Platz für die Mikrowelle geschaffen werden konnte.
 
