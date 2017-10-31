@@ -54,7 +54,7 @@ So sah das Regal nach der Montage aus:
 
 image::kitchen_IKEA/Oberschrank_ohne_Tueren.jpg[Oberschrank ohne Tueren, 500, 300]
 
-Der Einbau der Türen für die beiden außenliegenden Fächer war nun etwas aufwändiger, da die Bettbeschläge etwas im Weg sind. Damit die Einsätze passen mussten entsprechende AUssaprungen gefeilt werden und auch Aussparungen für die Wandschrauben erstellt werden.
+Der Einbau der Türen für die beiden außenliegenden Fächer war nun etwas aufwändiger, da die Bettbeschläge etwas im Weg sind. Damit die Einsätze passen, mussten entsprechende Aussparungen gefeilt werden und auch Aussparungen für die Wandschrauben erstellt werden.
 
 image::kitchen_IKEA/Aussparungen_fertig.jpg[Aussparungen, 500, 300]
 
@@ -72,7 +72,7 @@ image::kitchen_IKEA/Oberschrank_mit_Tueren_offen.jpg[Oberschrank, 500, 300]
 
 == Zusammenfassung
 
-Der Aufbau des Unterschranks war sehr einfach und ging schnell von der Hand. Der Oberschrank mit den Bettbeschlägen als sichere Befestigungsmöglichkeit hat einen gewissen AUfwand bedeutet (~2 Stunden).
+Der Aufbau des Unterschranks war sehr einfach und ging schnell von der Hand. Der Oberschrank mit den Bettbeschlägen als sichere Befestigungsmöglichkeit hat einen gewissen Aufwand bedeutet (~2 Stunden).
 
 Für die Durchführung wurden eine Bohrmaschine mit entsprechenden Bohrern und verschiedene Holzfeilen verwendet. Zum Anziehen der Sechskant-Schrauben wurde eine Ratsche verwendet.
 
