@@ -8,14 +8,14 @@
 :published_at: 2017-10-30
 :hp-tags: IKEA_Hacks, Kitchen
 
-In der Küche war der Stauraum sowie mögliche Ablagefläche etwas knapp, daher habe ich überlegt wie kostengünstig Stauraum, Ablagefläche und ein Platz für die Mikrowelle geschaffen werden konnte.
+In der Küche war der Stauraum sowie die Ablagefläche etwas knapp, daher habe ich überlegt wie kostengünstig Stauraum, Ablagefläche und ein Platz für die Mikrowelle geschaffen werden konnte.
 
-Nach verschiedenen Überlegeungen habe ich mich entscheiden eine passende Lösung basierend auf dem IKEA Kallax Regal zu schaffen. 
+Nach verschiedenen Überlegeungen habe ich mich entschieden eine passende Lösung basierend auf dem IKEA Kallax Regal zu schaffen. 
 
-Zuerst kurz ein Foto der fertigen Lösung, die als Inspiration dienen kann. Weiter unten dann eine kurze Beschreibung der Kniffe und Anpassungen, die nötig waren, um das aus einfachen IKEA Teilen die Lösung umzusetzen.
+Zuerst kurz ein Foto der fertigen Lösung, die als Inspiration dienen kann. Weiter unten dann eine kurze Beschreibung der Kniffe und Anpassungen, die nötig waren, um mit einfachen IKEA Teilen die Lösung umzusetzen.
 Die Teileliste mit Links findet sich am Ende des Artikels.
 
-Die fertige Lösung sieht folgendermaßen auf:
+Die fertige Lösung sieht folgendermaßen aus:
 
 image::kitchen_IKEA/Installation_fertig_1.jpg[Ergebnis, 500, 300]
 
@@ -23,15 +23,15 @@ image::kitchen_IKEA/Installation_fertig_1.jpg[Ergebnis, 500, 300]
 
 == Unterschrank
 
-Der Unterschrank besteht aus 2x2 IKEA Kallax Regal in weiß, einem IKEA ELVARLI (80x51cm) Regalboden sowie vier Möbelfußen (Möbelfuß Set Alpha 80 - 150 mm).
+Der Unterschrank besteht aus einem 2x2 IKEA Kallax Regal in weiß, einem IKEA ELVARLI (80x51cm) Regalboden sowie vier Möbelfußen (Möbelfuß Set Alpha 80 - 150 mm).
 
 Zuerst wurde das IKEA Kallax Regal aufgebaut, wobei im Inneren nur das durchgehende Regalbrett und eins der "halben" Regalbretter montiert wurden. Somit entstand ein großes Fach für die Mikrowelle.
 
-Danach wurden die Möbelfüße angeschraubt. Hier wurden einfach die Schrauben des IKEA Regals genutzt. Damit diese durch die Bohrlöcher der Reglfüße passten, mussten die Bohrlöcher etwas aufgebohrt werden. Die Möbelfüße sind somit nur mit einer Schraube befestigt, was sich aber als vollkommen ausreichend herausgestellt hat.
+Danach wurden die Möbelfüße angeschraubt. Hier wurden einfach die Schrauben des IKEA Regals genutzt. Damit diese durch die Bohrlöcher der Möbelfüße passten, mussten die Bohrlöcher etwas aufgebohrt werden. Die Möbelfüße sind somit nur mit einer Schraube befestigt, was sich aber als vollkommen ausreichend herausgestellt hat.
 
 image::kitchen_IKEA/Befestigung_Bein.jpg[Befestigung Bein, 500, 300]
 
-Zum Schluss wurde die Arbeistplatte bestehend aus einem IKEA ELVARLI (80x51cm) Regalboden angebracht. Diese wurde einfach aufgelegt und von unten durch die Regelwand mit vier Schrauben befestigt. Absolut ausreichend.
+Zum Schluß wurde die Arbeitsplatte bestehend aus einem IKEA ELVARLI (80x51cm) Regalboden angebracht. Diese wurde einfach aufgelegt und von unten durch die Regelwand mit vier Schrauben befestigt. Absolut ausreichend.
 
 image::kitchen_IKEA/Befestigung_Arbeitsplatte.jpg[Befestigung Arbeitsplatte, 500, 300]
 
@@ -44,7 +44,7 @@ image::kitchen_IKEA/Unterschrank_fertig.jpg[Unterschrank, 500, 300]
 
 == Oberschrank
 
-Für den Oberschrank würde ein IKEA Kallax 3x1 Regal in weiß gewählt. Um das Regal sicher an die Wand aufzuhängen, habe ich mich entschieden in allen vier äußeren Ecken des Regals sogenannte Bettbeschläge anzubringen. Die Bettbeschläge wurden mittels Schrauben an den Stellen angebracht, die für den IKEA Kippschutz vorgesehen sind. Hierzu mussten die Bettbeschläge an den entsprechenden Stellen gebohrt werden. Zusätzlich wurden zusätzliche Schrauben verwendet. Die hier verwendeten Bettbeschläge sind im Nachhinein betrachtet etwas überdimensioniert. Etwas kleinere wären auch ausreichend.
+Für den Oberschrank wurde ein IKEA Kallax 3x1 Regal in weiß gewählt. Um das Regal sicher an die Wand aufzuhängen, habe ich mich entschieden in allen vier äußeren Ecken des Regals sogenannte Bettbeschläge anzubringen. Die Bettbeschläge wurden mittels Schrauben an den Stellen angebracht, die für den IKEA Kippschutz vorgesehen sind. Hierzu mussten die Bettbeschläge an den entsprechenden Stellen gebohrt werden. Zusätzlich wurden weitere Schrauben verwendet. Hier hat sich aber herausgestellt, dass andere Bohrstellen, als die für den Kippschutz vorgesehenen, nicht wirklich halten. Daher sind die hier verwendeten Bettbeschläge im Nachhinein betrachtet etwas überdimensioniert. Etwas kleinere Bettbeschläge oder einfache Winkel wären wohl auch ausreichend.
 
 image::kitchen_IKEA/Befestigung_Winkel.jpg[Bettbeschlaege, 500, 300]
 
