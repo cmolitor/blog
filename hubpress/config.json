@@ -10,7 +10,7 @@
   },
   "urls": {
     "site": "https://cmolitor.github.io/blog",
-    "hubpress": "https://cmolitor.github.io/blog",
+    "hubpress": "http://molitor.online/blog",
     "theme": "//cmolitor.github.io/blog/themes/casper",
     "images": "https://cmolitor.github.io/blog/images"
   },
