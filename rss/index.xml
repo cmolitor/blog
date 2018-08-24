@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://cmolitor.github.io/blog</link><image><url>images/DSC09039.jpg</url><title>Untitled RSS Feed</title><link>https://cmolitor.github.io/blog</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 24 Aug 2018 06:10:10 GMT</lastBuildDate><atom:link href="https://cmolitor.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Changing Wifi credentials of Redbear Duo IoT board]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://cmolitor.github.io/blog</link><image><url>images/DSC09039.jpg</url><title>Untitled RSS Feed</title><link>https://cmolitor.github.io/blog</link></image><generator>RSS for Node</generator><lastBuildDate>Fri, 24 Aug 2018 06:12:19 GMT</lastBuildDate><atom:link href="https://cmolitor.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Changing Wifi credentials of Redbear Duo IoT board]]></title><description><![CDATA[<div class="paragraph">
 <p>At some point I had to change the Wifi credentials of my Redbear Duo board. Following the official instructions at <a href="https://github.com/redbear/Duo/blob/master/docs/out_of_box_experience.md" class="bare">https://github.com/redbear/Duo/blob/master/docs/out_of_box_experience.md</a> I was not able to change the credentials with the Android app. Probably as the app is not anymore maintained.</p>
 </div>
 <div class="paragraph">
@@ -7,18 +7,14 @@
 <div class="paragraph">
 <p>Those were the steps:</p>
 </div>
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>Connect the Redbear Duo with the USB cable to my MacBook</p>
-</li>
-<li>
-<p>Push the setup button at the Redbear Duo for at least ten seconds, until it starts flashing very fast. After around three seconds the blue led starts flashing and the Redbear Duo is in Listening mode, but in order to reset the wifi credentials you have to press the button longer until the blue led starts flashing very fast.</p>
-</li>
-<li>
-<p>Search and connect to Redbear Duo:</p>
-</li>
-</ol>
+<div class="paragraph">
+<p>1) Connect the Redbear Duo with the USB cable to my MacBook</p>
+</div>
+<div class="paragraph">
+<p>2) Push the setup button at the Redbear Duo for at least ten seconds, until it starts flashing very fast. After around three seconds the blue led starts flashing and the Redbear Duo is in Listening mode, but in order to reset the wifi credentials you have to press the button longer until the blue led starts flashing very fast.</p>
+</div>
+<div class="paragraph">
+<p>3) Search and connect to Redbear Duo:</p>
 </div>
 <div class="listingblock">
 <div class="content">
@@ -28,15 +24,11 @@ ls /dev/tty.usbmodem*
 screen /dev/tty.usbmodemXXXXX</code></pre>
 </div>
 </div>
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p>use commands: i: show id, v: show version and w: setup wifi</p>
-</li>
-<li>
-<p>Done!</p>
-</li>
-</ol>
+<div class="paragraph">
+<p>4) use commands: i: show id, v: show version and w: setup wifi</p>
+</div>
+<div class="paragraph">
+<p>5) Done!</p>
 </div>]]></description><link>https://cmolitor.github.io/blog/2018/08/23/Changing-Wifi-credentials-of-Redbear-Duo-IoT-board.html</link><guid isPermaLink="true">https://cmolitor.github.io/blog/2018/08/23/Changing-Wifi-credentials-of-Redbear-Duo-IoT-board.html</guid><dc:creator><![CDATA[Christoph Molitor]]></dc:creator><pubDate>Thu, 23 Aug 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[Some notes on creating an image from a Raspberry Pi SD card and restoring it]]></title><description><![CDATA[<div class="sect1">
 <h2 id="_list_all_mounted_devices">List all mounted devices:</h2>
 <div class="sectionbody">
